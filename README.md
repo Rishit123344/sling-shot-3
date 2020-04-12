@@ -1,1 +1,1 @@
-# sling-shot-3
+# SlingShot Game
